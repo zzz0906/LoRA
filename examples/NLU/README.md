@@ -41,7 +41,7 @@ conda env create -f environment.yml
 ### Install the pre-requisites
 lora:
 ```console
-pip install -e ..
+pip install -e ...
 ```
 NLU:
 ```console
